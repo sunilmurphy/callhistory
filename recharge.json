@@ -12,55 +12,14 @@
         "price": "₹599",
         "offer_price": "₹549",
         "data": "2 GB/day",
-        "validity": "84 days",
-        "calls": "Unlimited Calls"
-      }
-    ],
-    "airtel": [
-      {
-        "price": "₹399",
-        "offer_price": "₹369",
-        "data": "2.5 GB/day",
         "validity": "56 days",
         "calls": "Unlimited Calls"
       },
       {
-        "price": "₹719",
-        "offer_price": "₹679",
-        "data": "3 GB/day",
-        "validity": "84 days",
-        "calls": "Unlimited Calls"
-      }
-    ],
-    "vi": [
-      {
-        "price": "₹299",
-        "offer_price": "₹289",
-        "data": "1 GB/day",
-        "validity": "28 days",
-        "calls": "Unlimited Calls"
-      },
-      {
-        "price": "₹479",
-        "offer_price": "₹449",
-        "data": "1.5 GB/day",
-        "validity": "56 days",
-        "calls": "Unlimited Calls"
-      }
-    ],
-    "bsnl": [
-      {
-        "price": "₹187",
-        "offer_price": "₹169",
+        "price": "₹799",
+        "offer_price": "₹749",
         "data": "2 GB/day",
-        "validity": "28 days",
-        "calls": "Unlimited Calls"
-      },
-      {
-        "price": "₹997",
-        "offer_price": "₹949",
-        "data": "3 GB/day",
-        "validity": "180 days",
+        "validity": "84 days",
         "calls": "Unlimited Calls"
       }
     ]
