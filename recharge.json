@@ -2,22 +2,22 @@
   "plans": {
     "jio": [
       {
-        "price": "₹299",
-        "offer_price": "₹279",
+        "price": "299",
+        "offer_price": "279",
         "data": "1.5 GB/day",
         "validity": "28 days",
         "calls": "Unlimited Calls"
       },
       {
-        "price": "₹599",
-        "offer_price": "₹549",
+        "price": "599",
+        "offer_price": "549",
         "data": "2 GB/day",
         "validity": "56 days",
         "calls": "Unlimited Calls"
       },
       {
-        "price": "₹799",
-        "offer_price": "₹749",
+        "price": "799",
+        "offer_price": "749",
         "data": "2 GB/day",
         "validity": "84 days",
         "calls": "Unlimited Calls"
