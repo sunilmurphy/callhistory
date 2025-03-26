@@ -2,25 +2,67 @@
   "plans": {
     "jio": [
       {
-        "price": "299",
-        "offer_price": "279",
-        "data": "1.5 GB/day",
-        "validity": "28 days",
-        "calls": "Unlimited Calls"
+        "price": "3599",
+        "offer_price": "1599",
+        "data": "2GB/day",
+        "validity": "365 days",
+        "calls": "Unlimited local STD & Roaming"
       },
       {
-        "price": "599",
-        "offer_price": "549",
-        "data": "2 GB/day",
-        "validity": "56 days",
-        "calls": "Unlimited Calls"
+        "price": "3999",
+        "offer_price": "1699",
+        "data": "2.5GB/day",
+        "validity": "3656 days",
+        "calls": "Unlimited"
+      },
+      {
+        "price": "1199",
+        "offer_price": "699",
+        "data": "2.5GB/day",
+        "validity": "84 days",
+        "calls": "Unlimited local STD & Roaming calls"
+      },
+      {
+        "price": "979",
+        "offer_price": "419",
+        "data": "2GB/day",
+        "validity": "84 days",
+        "calls": "Unlimited local STD & Roaming"
       },
       {
         "price": "799",
-        "offer_price": "749",
-        "data": "2 GB/day",
+        "offer_price": "299",
+        "data": "1.5GB/day",
         "validity": "84 days",
-        "calls": "Unlimited Calls"
+        "calls": "Unlimited"
+      },
+      {
+        "price": "649",
+        "offer_price": "249",
+        "data": "1.5GB/day",
+        "validity": "60 days",
+        "calls": "Unlimited local STD & Roaming"
+      },
+      {
+        "price": "549",
+        "offer_price": "299",
+        "data": "3GB/day",
+        "validity": "28 days",
+        "calls": "Unlimited local STD & Roaming"
+      },
+      {
+        "price": "449",
+        "offer_price": "149",
+        "data": "3GB/day",
+        "validity": "28 days",
+        "calls": "Unlimited local STD & Roaming"
+      },
+      {
+        "price": "349",
+        "offer_price": "119",
+        "data": "2GB/day",
+        "validity": "28 days",
+        "calls": "Unlimited"
       }
     ]
   }
