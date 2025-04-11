@@ -1,0 +1,28 @@
+{
+  "blockchains": [
+    {
+      "name": "Ethereum(ERC-20)",
+      "network": "USDTERC20"
+    },
+    {
+      "name": "BNB Smart Chain(BEP-20)",
+      "network": "USDTBSC"
+    },
+    {
+      "name": "TRON(TRC-20)",
+      "network": "USDTTRC20"
+    },
+    {
+      "name": "SOLANA(Sol)",
+      "network": "USDTSOL"
+    },
+    {
+      "name": "Arbitrum One",
+      "network": "USDTARB"
+    },
+    {
+      "name": "Optimism",
+      "network": "USDTOP"
+    }
+  ]
+}
