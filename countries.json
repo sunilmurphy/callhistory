@@ -1,0 +1,32 @@
+{
+  "countries": [
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/USA.png",
+      "name": "United States"
+    },
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/united-kingdom.png",
+      "name": "United Kingdom"
+    },
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/germany.png",
+      "name": "Germany"
+    },
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/ukrain.png",
+      "name": "Ukrain"
+    },
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/india.png",
+      "name": "India"
+    },
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/france.png",
+      "name": "France"
+    },
+    {
+      "flag": "https://sunilmurphy.github.io/HamsterKombat/allworld.png",
+      "name": "Other"
+    }
+  ]
+}
